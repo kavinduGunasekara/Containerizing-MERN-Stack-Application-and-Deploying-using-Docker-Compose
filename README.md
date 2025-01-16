@@ -29,4 +29,5 @@ npm install
 npm run dev
 ```
 
-<img width="1790" alt="Screenshot 2024-08-31 at 11 07 58 PM" src="https://github.com/user-attachments/assets/f414230b-8bd6-4393-b8de-6a10444a8dfd">
+![Screenshot 2025-01-13 233934](https://github.com/user-attachments/assets/ca764136-2e68-4822-adbe-49863632cf1e)
+
