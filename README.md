@@ -29,5 +29,3 @@ npm install
 npm run dev
 ```
 
-![Screenshot 2025-01-13 233934](https://github.com/user-attachments/assets/ca764136-2e68-4822-adbe-49863632cf1e)
-
